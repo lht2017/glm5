@@ -1,0 +1,16 @@
+{
+  "auth_mode": "token",
+  "token": "",
+  "username": "",
+  "password": "",
+  "target_time": "10:00:00",
+  "product_id": "",
+  "concurrency": 8,
+  "poll_interval_ms": 10,
+  "max_retry": 0,
+  "api_base": "https://open.bigmodel.cn",
+  "login_url": "/api/auth/login",
+  "stock_check_url": "/api/biz/tokenAccounts/isLimitBuy",
+  "purchase_url": "/api/tokenAccounts/purchase",
+  "user_info_url": "/api/biz/customer/getCustomerInfo"
+}
