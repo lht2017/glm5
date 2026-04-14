@@ -6,6 +6,8 @@
 
 本地运行的准点抢购辅助工具，用于智谱AI (https://open.bigmodel.cn/glm-coding) 的自动抢购。基于 Python 实现，Flask Web 可视化配置，httpx HTTP/2 异步并发，NTP 毫秒级时间校准。
 
+<img width="2121" height="1272" alt="image" src="https://github.com/user-attachments/assets/cda228c1-0f96-4507-b9a3-94ecb3974dfa" />
+
 ## 功能特性
 
 - **双模式登录**：支持 Token 直填 + 账号密码两种鉴权方式
